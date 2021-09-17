@@ -14,3 +14,6 @@
        itu biasanya ada sebuah framework, jadi jika dicari pada wikipedia
        - Link: https://en.wikipedia.org/wiki/Comparison_of_web_frameworks
      - Ini hampir setiap bahasa pemrograman memiliki framework tersendiri
+
+## Materi Yang Dikerjakan
+### Membuat Aplikasi CRUD Berbasis PHP Dengan Framework Codeigniter Versi 3.1.9
