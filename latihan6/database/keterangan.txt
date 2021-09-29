@@ -1,4 +1,4 @@
----- Keterangan Latihan 4 (Penambahan Sweet Alert) ----
+---- Keterangan Latihan 6 (Search) ----
 
 1. Pengertian
    - Codeigniter
